@@ -28,7 +28,6 @@
                                                                        &kp LGUI      &trans        &kp SPACE      &kp RET       &kp BSPC             &kp RALT
                         >;
                 };
-
                 raise_layer {
                         bindings = <
                                 &none      &kp FSLH      &kp AT         &kp AT      &kp RBKT      &kp BSLH      &kp PRCNT      &kp LEFT       &kp DOWN      &kp UP      &kp RIGHT     &none
