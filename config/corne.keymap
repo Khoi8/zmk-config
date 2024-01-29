@@ -22,7 +22,7 @@
 
         lower_layer {
             bindings = <
-&none  &kp TILDE         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_0    &kp PIPE   &kp LESS_THAN     &kp LBRC          &kp RBRC  &kp KP_MULTIPLY  &none
+&none  &kp GRAVE         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_0    &kp PIPE   &kp LESS_THAN     &kp LBRC          &kp RBRC  &kp KP_MULTIPLY  &none
 &none  &kp TAB           &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS        &kp AMPS   &kp GREATER_THAN  &kp LPAR          &kp RPAR  &kp SLASH        &none
 &none  &kp LEFT_CONTROL  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp MINUS       &kp EQUAL  &kp QUESTION      &kp LBKT          &kp RBKT  &kp PERCENT      &none
                                        &kp ESC       &trans        &kp SPACE       &kp RET    &kp BSPC          &kp LEFT_CONTROL
