@@ -17,6 +17,14 @@
             key-positions = <16 17>;
             timeout-ms = <30>;
             require-prior-idle-ms = <0>;
+            layers = <0>;
+        };
+
+        quick_slash {
+            bindings = <&kp SLASH>;
+            key-positions = <16 29>;
+            timeout-ms = <30>;
+            layers = <0>;
         };
     };
 
